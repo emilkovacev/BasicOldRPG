@@ -1,4 +1,4 @@
-# BasicOldRPG
+# Classic RPG
 
 You, the knight, are exploring the ruins of a vast world. This project utilizes state pattern to generate different locations, and add functionality to each location. Each location exists as a state, and traversing between the states requires input from one of the methods defined in the State class. 
 
