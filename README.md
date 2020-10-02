@@ -10,7 +10,7 @@ Currently, there are 4 locations:
 - Dungeon
 - HQ
 
-The knight can "explore" each location. Exploring a location can yield either fortune or misfortune of considerable proportion. It is up to the player's mind when to explore and when to travel to another location. 
+The knight can "explore" each location. Exploring a location can yield either fortune or misfortune of considerable proportion. It is up to the player when to explore and when to travel to another location. 
 
 ---------------------------------------------------------------------------
 
